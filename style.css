@@ -116,16 +116,16 @@ main {
 }
 
 #hi {
-    font-size: 2.5em;
+    font-size: 2em;
     margin-bottom: -3dvh;
 }
 
 #hi1 {
-    font-size: 5em;
+    font-size: 4em;
 }
 
 #hi2 {
-    font-size: 2em;
+    font-size: 1.5em;
     color: #a4a4a4;
 }
 
@@ -133,13 +133,13 @@ main {
     display: block;
     clear: both;
     position: absolute;
-    top: 70dvh;
+    top: 67dvh;
     left: 7.5dvw;
 
     background-color: #191919;
     color: #f8f7f9;
     border: 5px solid #f8f7f9;
-    font-size: 2em;
+    font-size: 1.5em;
     border-radius: 10px;
 
     height: 9dvh;
